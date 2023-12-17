@@ -17,4 +17,4 @@ Attributes (columns) for the events:
 3. SENT_A_SUPER_TREE: file_name, date, user_id, event
 
 THE TASK:
-Try to predict which users will become paid users based on the registration data and application usage so far (free tree transmissions)
+Try to predict which users will become paid users based on the registration data and application usage so far
